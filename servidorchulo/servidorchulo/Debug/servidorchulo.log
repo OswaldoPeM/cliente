@@ -1,0 +1,5 @@
+﻿  Cliente.cpp
+  Source.cpp
+c:\users\oswal\source\repos\servidorchulo\servidorchulo\source.cpp(10): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código...
+  servidorchulo.vcxproj -> C:\Users\Oswal\source\repos\servidorchulo\Debug\servidorchulo.exe
